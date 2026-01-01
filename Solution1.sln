@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Day_AttributeBasedRouting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Day_view", "12Day_view\12Day_view.csproj", "{B923E67E-5C10-46A2-8FDB-0B259868E637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Day_BootStrap_Layout_PartialView", "13Day_BootStrap_Layout_PartialView\13Day_BootStrap_Layout_PartialView.csproj", "{C73E89DF-30D0-46DC-875C-D5746DF81226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Day_TagHelpers", "13Day_TagHelpers\13Day_TagHelpers.csproj", "{416A1B63-C470-49A8-929D-A1AE22E13749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B923E67E-5C10-46A2-8FDB-0B259868E637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B923E67E-5C10-46A2-8FDB-0B259868E637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B923E67E-5C10-46A2-8FDB-0B259868E637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73E89DF-30D0-46DC-875C-D5746DF81226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73E89DF-30D0-46DC-875C-D5746DF81226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73E89DF-30D0-46DC-875C-D5746DF81226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73E89DF-30D0-46DC-875C-D5746DF81226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416A1B63-C470-49A8-929D-A1AE22E13749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416A1B63-C470-49A8-929D-A1AE22E13749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416A1B63-C470-49A8-929D-A1AE22E13749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416A1B63-C470-49A8-929D-A1AE22E13749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
